@@ -1,0 +1,10 @@
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\FitLGParcel\FitLGParcel.Library\bin\Release\FitLGParcel.Library.dll
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\FitLGParcel\FitLGParcel.Library\bin\Release\FitLGParcel.Library.pdb
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\FitLGParcel\FitLGParcel.Library\obj\Release\FitLGParcel.Library.csproj.CoreCompileInputs.cache
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\FitLGParcel\FitLGParcel.Library\obj\Release\FitLGParcel.Library.dll
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\FitLGParcel\FitLGParcel.Library\obj\Release\FitLGParcel.Library.pdb
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\Solution\FitLGParcel\FitLGParcel.Library\bin\Release\FitLGParcel.Library.dll
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\Solution\FitLGParcel\FitLGParcel.Library\bin\Release\FitLGParcel.Library.pdb
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\Solution\FitLGParcel\FitLGParcel.Library\obj\Release\FitLGParcel.Library.csproj.CoreCompileInputs.cache
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\Solution\FitLGParcel\FitLGParcel.Library\obj\Release\FitLGParcel.Library.dll
+C:\Users\TJ\Projects\DotNet\CodeExam_TJGono\Solution\FitLGParcel\FitLGParcel.Library\obj\Release\FitLGParcel.Library.pdb
