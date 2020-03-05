@@ -1,0 +1,2 @@
+# Diversify-OSS-Exam
+Technical exam by Diversify Offshore Staffing Solutions Philippines 
